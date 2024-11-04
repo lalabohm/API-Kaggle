@@ -81,3 +81,7 @@ ou
 # Tarefa de casa
 8) Incluir gráficos no painel e modificar Titulo incluindo seu nome
 9) Utilizar como referência o [repositório git](https://github.com/FedeCaprari/Ukraine-Missile-Interception-Dashboard/blob/main/Ukraine_graph_generator.py)
+
+# Prints
+![image](https://github.com/user-attachments/assets/d4f4aa9e-adb4-4cf7-b5ad-2aa372560314)
+
