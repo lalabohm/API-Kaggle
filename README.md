@@ -83,5 +83,9 @@ ou
 9) Utilizar como referência o [repositório git](https://github.com/FedeCaprari/Ukraine-Missile-Interception-Dashboard/blob/main/Ukraine_graph_generator.py)
 
 # Prints
+
+![Captura de tela 2024-11-04 183911](https://github.com/user-attachments/assets/3dee1978-be37-4241-b028-a6c106e2bb1e)
+![Captura de tela 2024-11-04 183927](https://github.com/user-attachments/assets/bc44c266-7519-4d17-8722-32cca32ddd06)
+![Captura de tela 2024-11-04 183939](https://github.com/user-attachments/assets/e0d81bfd-712f-4152-a840-027c5c827495)
 ![image](https://github.com/user-attachments/assets/d4f4aa9e-adb4-4cf7-b5ad-2aa372560314)
 
